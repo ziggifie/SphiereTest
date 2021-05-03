@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Smartwatch 2.0 LTE Wifi	</title>
+	<atom:link href="https://ziggifie.github.io/SphiereTest/product/smartwatch-2-0-lte-wifi/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ziggifie.github.io/SphiereTest/product/smartwatch-2-0-lte-wifi/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 29 Apr 2021 06:58:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>
+		By: Paul		</title>
+		<link>https://ziggifie.github.io/SphiereTest/product/smartwatch-2-0-lte-wifi/#comment-18</link>
+
+		<dc:creator><![CDATA[Paul]]></dc:creator>
+		<pubDate>Sun, 06 Oct 2019 07:12:34 +0000</pubDate>
+		<guid isPermaLink="false">https://ziggifie.github.io/SphiereTest/product/smartwatch-2-0-lte-wifi/#comment-18</guid>
+
+					<description><![CDATA[Hello]]></description>
+			<content:encoded><![CDATA[<p>Hello		</p>
+<div class="wpulike wpulike-default ">
+<div class="wp_ulike_general_class wp_ulike_is_not_liked"><button type="button"
+					aria-label="Like Button"
+					data-ulike-id="18"
+					data-ulike-nonce="0ae82de6b3"
+					data-ulike-type="comment"
+					data-ulike-template="wpulike-default"
+					data-ulike-display-likers="0"
+					data-ulike-likers-style="popover"
+					class="wp_ulike_btn wp_ulike_put_image wp_comment_btn_18"></button><span class="count-box">0</span>			</div>
+</div>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

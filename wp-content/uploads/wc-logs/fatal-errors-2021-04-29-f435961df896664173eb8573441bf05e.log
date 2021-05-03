@@ -1,0 +1,38 @@
+2021-04-29T04:13:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\SphiereTest\wp-includes\Requests\Transport\cURL.php on line 462
+
+2021-04-29T04:44:34+00:00 CRITICAL Uncaught Error: Class 'Elementor\Plugin' not found in C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\auxin\auxin-include\include\hooks-general.php:729
+Stack trace:
+#0 C:\wamp64\www\SphiereTest\wp-includes\class-wp-hook.php(294): auxin_body_class(Array)
+#1 C:\wamp64\www\SphiereTest\wp-includes\plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 C:\wamp64\www\SphiereTest\wp-includes\post-template.php(836): apply_filters('body_class', Array, Array)
+#3 C:\wamp64\www\SphiereTest\wp-includes\post-template.php(595): get_body_class(Array)
+#4 C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\header.php(30): body_class()
+#5 C:\wamp64\www\SphiereTest\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\S...')
+#6 C:\wamp64\www\SphiereTest\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\S...', true, Array)
+#7 C:\wamp64\www\SphiereTest\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\index.php(10) in C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\auxin\auxin-include\include\hooks-general.php on line 729
+
+2021-04-29T04:44:40+00:00 CRITICAL Uncaught Error: Class 'Elementor\Plugin' not found in C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\auxin\auxin-include\include\hooks-general.php:729
+Stack trace:
+#0 C:\wamp64\www\SphiereTest\wp-includes\class-wp-hook.php(294): auxin_body_class(Array)
+#1 C:\wamp64\www\SphiereTest\wp-includes\plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 C:\wamp64\www\SphiereTest\wp-includes\post-template.php(836): apply_filters('body_class', Array, Array)
+#3 C:\wamp64\www\SphiereTest\wp-includes\post-template.php(595): get_body_class(Array)
+#4 C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\header.php(30): body_class()
+#5 C:\wamp64\www\SphiereTest\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\S...')
+#6 C:\wamp64\www\SphiereTest\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\S...', true, Array)
+#7 C:\wamp64\www\SphiereTest\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\index.php(10) in C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\auxin\auxin-include\include\hooks-general.php on line 729
+
+2021-04-29T04:45:55+00:00 CRITICAL Uncaught Error: Class 'Elementor\Plugin' not found in C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\auxin\auxin-include\include\hooks-general.php:729
+Stack trace:
+#0 C:\wamp64\www\SphiereTest\wp-includes\class-wp-hook.php(294): auxin_body_class(Array)
+#1 C:\wamp64\www\SphiereTest\wp-includes\plugin.php(212): WP_Hook->apply_filters(Array, Array)
+#2 C:\wamp64\www\SphiereTest\wp-includes\post-template.php(836): apply_filters('body_class', Array, Array)
+#3 C:\wamp64\www\SphiereTest\wp-includes\post-template.php(595): get_body_class(Array)
+#4 C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\header.php(30): body_class()
+#5 C:\wamp64\www\SphiereTest\wp-includes\template.php(730): require_once('C:\\wamp64\\www\\S...')
+#6 C:\wamp64\www\SphiereTest\wp-includes\template.php(676): load_template('C:\\wamp64\\www\\S...', true, Array)
+#7 C:\wamp64\www\SphiereTest\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#8 C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\index.php(10) in C:\wamp64\www\SphiereTest\wp-content\themes\phlox-pro\auxin\auxin-include\include\hooks-general.php on line 729
+
